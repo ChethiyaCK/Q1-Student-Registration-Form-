@@ -1,7 +1,7 @@
 # Reflection
 
 ## Form Field Selection
-- **Name**: This is important for personal identification.
+- Name: This is important for personal identification.
 - **Email**: This is required for log in and check emails regularly.
 - **Password**:This is important for safety and security.
 - **Learning Interests**: This section help in enhance learning experience. 
@@ -12,7 +12,7 @@
 - **Password Strength**: Ensure passwords are at least 6 characters. 
 
 ## Design Decisions
-- Simple and clean layout to avoid distraction.
+- Simple layout 
 - **Responsive Layout**: Ensures usability across different devices.
 - **Real-time Feedback**: Immediate error display to guide user input.
 
