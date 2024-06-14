@@ -1,18 +1,18 @@
-# Reflection on Registration Form Design
+# Reflection
 
 ## Form Field Selection
-- **Name**: Essential for personal identification.
-- **Email**: Required for communication and login.
-- **Password**: Necessary for account security.
-- **Learning Interests**: Helps tailor the learning experience to individual needs.
+- **Name**: This is important for personal identification.
+- **Email**: This is required for log in and check emails regularly.
+- **Password**:This is important for safety and security.
+- **Learning Interests**: This section help in enhance learning experience. 
 
 ## Validation Rationale
-- **Required Fields**: Ensure no essential information is missing.
-- **Email Format Check**: Validate the email format to ensure it's correctly inputted.
-- **Password Strength**: Ensure passwords are at least 6 characters for security.
+- **Essential Fields**: Make sure every information is stated. 
+- **Email Format Check**: Concern about email format. Whether its in correct format or not. 
+- **Password Strength**: Ensure passwords are at least 6 characters. 
 
 ## Design Decisions
-- **Minimalist Design**: Simple and clean layout to avoid distraction.
+- Simple and clean layout to avoid distraction.
 - **Responsive Layout**: Ensures usability across different devices.
 - **Real-time Feedback**: Immediate error display to guide user input.
 
