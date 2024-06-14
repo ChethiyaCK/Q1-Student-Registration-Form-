@@ -2,25 +2,25 @@
 
 ## Form Field Selection
 - Name: This is important for personal identification.
-- **Email**: This is required for log in and check emails regularly.
-- **Password**:This is important for safety and security.
-- **Learning Interests**: This section help in enhance learning experience. 
+- Email: This is required for log in and check emails regularly.
+- Password:This is important for safety and security.
+- Learning Interests: This section help in enhance learning experience. 
 
 ## Validation Rationale
-- **Essential Fields**: Make sure every information is stated. 
-- **Email Format Check**: Concern about email format. Whether its in correct format or not. 
-- **Password Strength**: Ensure passwords are at least 6 characters. 
+- Make sure every information is stated. 
+- Concern about email format. Whether its in correct format or not. 
+- Ensure passwords are at least 6 characters. 
 
 ## Design Decisions
 - Simple layout 
-- **Responsive Layout**: Ensures usability across different devices.
-- **Real-time Feedback**: Immediate error display to guide user input.
+- Ensures responsiveness at its best.
+- immediate feedback options. 
 
 ## Accessibility Considerations
-- **Labels and Inputs**: Clear association between labels and form controls.
-- **Error Messages**: Visible and informative error messages for user guidance.
-- **Keyboard Navigation**: Form can be navigated using a keyboard, supporting accessibility tools.
+- Clear interaction between labels and form controls.
+- Visible and informative error messages.
+- Keyboard Navigation.
 
 ## Additional Insights
-- **User Experience**: Designed to be intuitive, reducing the friction in the registration process.
-- **Security**: Password length validation as a basic security measure, considering further enhancements like special character requirements and encryption in a real-world scenario.
+- Best User Experience.
+- Concern more of student security be strengthen password quality.
