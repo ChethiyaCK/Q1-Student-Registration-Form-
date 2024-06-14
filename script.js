@@ -5,7 +5,12 @@ document.getElementById('registrationForm').addEventListener('submit', function(
     let email = document.getElementById('email').value.trim();
     let password = document.getElementById('password').value.trim();
     let interests = document.getElementById('interests').value.trim();
-    
+    let errorMessages = document.getElementById('errorMessages');
+
+    errorMessages.innerHTML = '';
+
+    let errors = [];
+
     if (name === '') {
         errors.push('Name is required.');
     }
